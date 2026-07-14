@@ -1,0 +1,2 @@
+# aurorapalacetowers
+Static site: aurorapalacetowers
